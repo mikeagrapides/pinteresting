@@ -1,8 +1,13 @@
-# One Month Rails - Pinteresting Application
+# One Month Rails 
+# Pinteresting Web Application
 
 This is the sample Ruby on Rails application from the One Month Rails tutorial. 
 
 More information on the class can be found at 
-[OneMonth](http://onemonth.com). I highly recommend!
+[OneMonth](http://www.onemonth.com). I highly recommend it!
 
-By Mike Agrapides
+The live app can be found at http://www.mea-pinteresting.herokuapp.com
+
+Coded by Mike Agrapides
+
+
